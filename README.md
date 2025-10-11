@@ -30,8 +30,6 @@
 </h2>
 
 <div align="center">
-  <!-- Programming Languages -->
-  <h3>Languages</h3>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
@@ -40,8 +38,6 @@
 
   <br><br>
 
-  <!-- Frameworks & Libraries -->
-  <h3>Frameworks & Libraries</h3>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js Badge">
   <img src="https://img.shields.io/badge/LINQ-0078D4?style=for-the-badge&logo=dot-net&logoColor=white" alt="LINQ Badge">
@@ -51,8 +47,6 @@
 
   <br><br>
 
-  <!-- Databases -->
-  <h3>Databases</h3>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge">
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=sql-server&logoColor=white" alt="MSSQL Badge">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
