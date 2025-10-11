@@ -73,7 +73,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" style="border-radius:5px;" alt="LinkedIn"/>
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" height="40" style="border-radius:5px;" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="border-radius:5px;" alt="Email"/>
   </a>
 </div>
 
