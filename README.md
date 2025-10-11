@@ -10,11 +10,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding Cat">
 </div>
 
-<!-- 🌟 About Me Section -->
 <div align="center">
-  <!-- Animated Title -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2000&pause=1000&color=4A90E2&center=true&width=400&lines=About+Me&repeat=true" alt="About Me blinking animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=4A90E2&center=true&width=400&lines=About+Me" alt="About Me title" />
 </h2>
 
   <!-- Paragraph -->
