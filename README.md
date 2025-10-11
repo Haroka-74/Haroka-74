@@ -62,21 +62,25 @@
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
 </div>
 
-<div align="center" style="display: flex; gap: 15px;">
+<div align="center" style="display: flex; gap: 15px; justify-content: center;">
+  <!-- Facebook -->
   <a href="https://www.facebook.com/YourFacebookUsername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40" style="background-color:#1877F2; padding:5px; border-radius:5px;" alt="Facebook"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40" style="background-color:#1877F2; padding:5px; border-radius:5px; fill:white;" alt="Facebook"/>
   </a>
 
+  <!-- Instagram -->
   <a href="https://www.instagram.com/YourInstagramUsername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="background-color:#E4405F; padding:5px; border-radius:5px;" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="background-color:#E4405F; padding:5px; border-radius:5px; fill:white;" alt="Instagram"/>
   </a>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" style="background-color:#0A66C2; padding:5px; border-radius:5px;" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" style="background-color:#0A66C2; padding:5px; border-radius:5px; fill:white;" alt="LinkedIn"/>
   </a>
 
+  <!-- Email -->
   <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" style="background-color:#D14836; padding:5px; border-radius:5px;" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" style="background-color:#D14836; padding:5px; border-radius:5px; fill:white;" alt="Email"/>
   </a>
 </div>
 
