@@ -25,5 +25,9 @@
   </p>
 </div>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=4A90E2&center=true&width=400&lines=Technologies" alt="About Me title" />
+</h2>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24&height=120&section=footer">
 </div>
