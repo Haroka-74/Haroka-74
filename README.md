@@ -61,5 +61,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
 </div>
-  
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24&height=120&section=footer">
 </div>
