@@ -63,17 +63,17 @@
 </div>
 
 <div align="center" style="display: flex; gap: 15px; justify-content: center;">
-  <a href="https://www.facebook.com/YourFacebookUsername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40" style="border-radius:5px;" alt="Facebook"/>
+  <a href="mailto:mohamed.mahmoud.haroka1@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="border-radius:5px;" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/YourInstagramUsername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="40" height="40" style="border-radius:5px;" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-mahmoud-84446b227/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" style="border-radius:5px;" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="border-radius:5px;" alt="Email"/>
+  <a href="https://www.facebook.com/mohamed.mahmoud.573566/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40" style="border-radius:5px;" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/mohamed_mahmoud_1337/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="40" height="40" style="border-radius:5px;" alt="Instagram"/>
   </a>
 </div>
 
