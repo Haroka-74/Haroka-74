@@ -10,4 +10,15 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding Cat">
 </div>
 
+<!-- 🌟 Introduction Section -->
+<div align="center">
+  <h2>💫 About Me</h2>
+  <p style="font-size: 17px; max-width: 700px; text-align: center; line-height: 1.6;">
+    Passionate <b>Software Engineer</b> with a strong interest in building meaningful, efficient, and scalable solutions.  
+    Experienced in solving a wide range of algorithmic challenges, which strengthened critical thinking and problem-solving skills.  
+    Dedicated to writing clean, maintainable code and continuously learning to grow as a professional, I strive to deliver  
+    high-quality software that adds real value — whether working independently or as part of a team.
+  </p>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24&height=120&section=footer">
