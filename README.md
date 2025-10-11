@@ -52,12 +52,11 @@
   
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge">
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=sql-server&logoColor=white" alt="MSSQL Badge">
-
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=4A90E2&center=true&width=400&lines=Get+In+Touch" alt="About Me title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=4A90E2&center=true&width=400&lines=Let's+Connect" alt="About Me title" />
 </h2>
 
   
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
 </div>
