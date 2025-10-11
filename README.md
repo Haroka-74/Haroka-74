@@ -62,19 +62,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
 </div>
 
-<div align="center">
-  <!-- Social Links -->
+<div align="center" style="display: flex; gap: 15px;">
   <a href="https://www.facebook.com/YourFacebookUsername" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40" style="background-color:#1877F2; padding:5px; border-radius:5px;" alt="Facebook"/>
   </a>
+
   <a href="https://www.instagram.com/YourInstagramUsername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="background-color:#E4405F; padding:5px; border-radius:5px;" alt="Instagram"/>
   </a>
+
   <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" style="background-color:#0A66C2; padding:5px; border-radius:5px;" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" style="background-color:#D14836; padding:5px; border-radius:5px;" alt="Email"/>
   </a>
 </div>
 
