@@ -13,14 +13,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding Cat">
-</div>
-
-<div align="center">
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=4A90E2&center=true&width=400&lines=About+Me" alt="About Me title" />
-</h2>
-
   <!-- Paragraph -->
   <p style="font-size: 17px; max-width: 700px; text-align: center; line-height: 1.6;">
     Passionate <b>Software Engineer</b> with a strong interest in building meaningful, efficient, and scalable solutions.  
