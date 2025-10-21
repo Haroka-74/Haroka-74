@@ -8,11 +8,11 @@
     </h1> 
 </div>
 
+
+<div align="center">
 <div align="">
   <img src="https://komarev.com/ghpvc/?username=Haroka-74&label=Profile%20views&color=0e75b6&style=flat" alt="Haroka" />
 </div>
-
-<div align="center">
   <!-- Paragraph -->
   <p style="font-size: 17px; max-width: 700px; text-align: center; line-height: 1.6;">
     Passionate <b>Software Engineer</b> with a strong interest in building meaningful, efficient, and scalable solutions.  
