@@ -3,11 +3,11 @@
 <h2 align="center">Hi, I'm Mohamed Mahmoud 👋</h2>
 
 <h3 align="center">
-Software Engineer | <bold>ASP.NET</bold> • React.js
+Software Engineer | <i>ASP.NET</bold> • <i>React.js</i>
 </h3>
 
 <p align="center">
-<i>Building reliable</i> backend systems • Solving complex algorithms • Clean Architecture
+<i>Building reliable systems</i> • <i>Turning ideas into production-ready solutions</i>
 </p>
 
 ### 📬 Contact Me
@@ -17,9 +17,6 @@ Software Engineer | <bold>ASP.NET</bold> • React.js
   </a>
   <a href="https://linkedin.com/in/haroka">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Haroka-74">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -42,7 +39,6 @@ Software Engineer | <bold>ASP.NET</bold> • React.js
 
 ### 🛠 Tech Stack
 
-**Languages & Frameworks**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnet" />
@@ -50,10 +46,6 @@ Software Engineer | <bold>ASP.NET</bold> • React.js
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
-</p>
-
-**Databases & DevOps**
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="sqlserver" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" />
