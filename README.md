@@ -11,7 +11,7 @@ Software Engineer | <i>ASP.NET</bold> • <i>React.js</i>
 </p>
 
 ### 📬 Contact Me
-<p align="center">
+<p align="left">
   <a href="mailto:mohamed.haroka1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
