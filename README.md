@@ -68,28 +68,6 @@ Software Engineer | ASP.NET • React.js
 
 ---
 
-### 🚀 Featured Projects
-
-**Reunite (Lost Children Discovery System)**  
-*ASP.NET Core, Docker, SignalR, Auth0*  
-- Integrated **Facial Recognition** with vector databases for image matching
-- Built **Real-time Chat** via SignalR and Google Maps integration for live tracking
-
-**SouQna (E-Commerce Backend)**  
-*ASP.NET Core, PostgreSQL, Hangfire, xUnit*  
-- Implemented **Clean Architecture with CQRS (MediatR)** for high maintainability
-- Developed a custom Auth system and background jobs for heavy task processing
-- 90%+ coverage on Domain/Application layers via **xUnit**
-
----
-
-### 📜 Education & Certifications
-- **B.Sc. in Computer Science** — Cairo University (2021 – 2025)
-- **Datacom Job Simulation** — Forage (Bug fixing & system planning)
-- **Problem Solving** — HackerRank / Codeforces / LeetCode
-
----
-
 <p align="center">
-"Writing clean code is a habit; solving hard problems is a passion."
+<i>"Writing clean code is a habit; solving hard problems is a passion."</i>
 </p>
