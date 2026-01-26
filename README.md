@@ -7,7 +7,7 @@ Software Engineer | ASP.NET • React.js
 </h3>
 
 <p align="center">
-<ins>Building reliable</ins> backend systems • Solving complex algorithms • Clean Architecture
+<i>Building reliable</i> backend systems • Solving complex algorithms • Clean Architecture
 </p>
 
 ### 📬 Contact Me
