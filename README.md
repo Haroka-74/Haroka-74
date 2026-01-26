@@ -3,11 +3,11 @@
 <h2 align="center">Hi, I'm Mohamed Mahmoud 👋</h2>
 
 <h3 align="center">
-Software Engineer
+Software Engineer | ASP.NET • React.js
 </h3>
 
 <p align="center">
-Building scalable backends • Solving complex algorithms • Clean Architecture
+<ins>Building reliable</ins> backend systems • Solving complex algorithms • Clean Architecture
 </p>
 
 ### 📬 Contact Me
