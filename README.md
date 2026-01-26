@@ -1,3 +1,4 @@
+<img align="right" width="350" src="https://media.giphy.com/media/Is0q8XqF4d1p58dYKZ/giphy.gif"/>
 
 <h2 align="center">Hi, I'm Mohamed Mahmoud 👋</h2>
 
