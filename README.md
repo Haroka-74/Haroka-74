@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Mohamed Mahmoud 👋</h2>
 
 <h3 align="center">
-Software Engineer | ASP.NET • React.js
+Software Engineer
 </h3>
 
 <p align="center">
