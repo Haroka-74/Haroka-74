@@ -47,7 +47,7 @@ Software Engineer
 
 <p align = "center">
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=c,cpp,cs,java,js,dotnet,nodejs,express,react,postgres,mongodb,nginx,docker,grafana,postman,git" />
+    <img src = "https://skillicons.dev/icons?i=c,cpp,cs,java,js,dotnet,nodejs,express,react,postgres,mongodb,nginx,docker,grafana" />
   </a>
 </p>
 
