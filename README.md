@@ -26,7 +26,7 @@ I enjoy working close to the core of systems: data modeling, API design, and bac
 
 <br />
 
----
+<hr>
 
 <p align = "center">
   <a href = "https://skillicons.dev">
@@ -34,7 +34,7 @@ I enjoy working close to the core of systems: data modeling, API design, and bac
   </a>
 </p>
 
----
+<hr>
 
 <div align="center">
 
