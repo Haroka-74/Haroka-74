@@ -6,6 +6,16 @@
 
 # Hi, I'm Mohamed
 
+<a href="https://codeforces.com/profile/Haroka" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/Haroka__/" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+<br />
+
 <p align = "left">
 
 Software Engineer focused on building reliable systems and turning ideas into production-ready solutions. My engineering mindset was shaped by solving large volumes of algorithmic challenges, which strengthened my ability to reason about performance, edge cases, and trade-offs under constraints.
@@ -26,7 +36,6 @@ I enjoy working close to the core of systems: data modeling, API design, and bac
 
 ---
 
-# Contact Me
 <div align="center">
 
   <a href = "mailto:mohamed.haroka1@gmail.com" target = "_blank">
