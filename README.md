@@ -38,7 +38,7 @@ I enjoy working close to the core of systems: data modeling, API design, and bac
   </a>
 
   <a href = "https://www.facebook.com/mohamed.mahmoud.573566" target = "_blank">
-    <img src = "https://img.icons8.com/fluency/48/facebook-new.png" width = 48 height = 48 />
+    <img src = "https://img.icons8.com/fluency/48/facebook-new.png" />
   </a>
 
   <a href = "https://www.instagram.com/itsmohamedmahmoud" target = "_blank">
