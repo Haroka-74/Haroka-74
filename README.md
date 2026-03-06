@@ -6,14 +6,15 @@
 
 # Hi, I'm Mohamed
 
-<p align = "left"> Software Engineer focused on building reliable solutions that solve real business problems. Solved <strong>1600+</strong> algorithmic problems across problem-solving platforms, building analytical rigor to systematically tackle complexity. Familiar with software architecture and design principles, and committed to writing clean, maintainable code. Eager to collaborate, learn, and build software that delivers meaningful value. </p>
+<p align = "left">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Software Engineer focused on building reliable systems and turning ideas into production-ready solutions. My engineering mindset was shaped by solving large volumes of algorithmic challenges, which strengthened my ability to reason about performance, edge cases, and trade-offs under constraints.
+
+I enjoy working close to the core of systems: data modeling, API design, and backend logic, with a strong emphasis on writing code that is easy to evolve as requirements grow. Beyond implementation, I think carefully about how systems scale in data-intensive applications, starting from an MVP and gradually evolving the architecture to support higher traffic, growing datasets, and stricter performance requirements through thoughtful data access patterns, caching strategies, and clear service boundaries.
+
+</p>
+
+<br />
 
 ---
 
