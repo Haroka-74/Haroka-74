@@ -18,7 +18,11 @@ I enjoy working close to the core of systems: data modeling, API design, and bac
 
 ---
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<p align = "center">
+  <a href = "https://skillicons.dev">
+    <img src = "https://skillicons.dev/icons?i=c,cpp,cs,java,js,dotnet,react,nodejs,postgres,mongodb,git,github,docker,nginx,grafana" />
+  </a>
+</p>
 
 </div>
 
@@ -51,13 +55,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
 
-### 🛠 Tech Stack
-
-<p align = "center">
-  <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=c,cpp,cs,java,js,dotnet,nodejs,express,react,postgres,mongodb,nginx,docker,grafana" />
-  </a>
-</p>
 
 ---
 
