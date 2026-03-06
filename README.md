@@ -1,7 +1,8 @@
 <div style = "font-family: 'Roboto', sans-serif;">
 
-<img width = "100%" height = "400" src = "./banner.jpg">
-
+<div align = "center">
+  <img width ="80%" height = "375" src = "./banner.jpg" style = "border-radius: 20px;">
+</div>
 
 </div>
 
