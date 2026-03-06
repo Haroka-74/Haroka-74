@@ -5,18 +5,9 @@
 </div>
 
 # Hi, I'm Mohamed
-*Software Engineer*
-<br />
 
-
-
-#
-#
-#
-#
-#
-<!--Start Intro-->
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align = "left"> I am a Software Engineer focused on building reliable solutions that solve real business problems. Solved 1600+ algorithmic problems across problem-solving platforms, building analytical rigor to systematically tackle
+complexity. Familiar with software architecture and design principles, and committed to writing clean, maintainable code. Eager to collaborate, learn, and build software that delivers meaningful value. </p>
 
 </div>
 
@@ -30,6 +21,15 @@
 
 
 
+
+
+
+
+#
+#
+#
+#
+#
 #
 #
 #
@@ -45,15 +45,7 @@
 #
 #
 
-<h2 align="center"> Mahmoud 👋</h2>
 
-<h3 align="center">
-Software Engineer
-</h3>
-
-<p align="center">
-<i>Turning ideas into production-ready solutions</i>
-</p>
 
 ### 📬 Contact Me
 
