@@ -24,6 +24,29 @@ I enjoy working close to the core of systems: data modeling, API design, and bac
   </a>
 </p>
 
+---
+
+<h2 align="center"> Contact Me </h2>
+<div align="center">
+
+  <a href = "mailto:mohamed.haroka1@gmail.com" target = "_blank">
+    <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width = 50 height = 50 style = "margin-bottom: 5px;" />
+  </a>
+
+  <a href = "https://www.linkedin.com/in/haroka/" target = "_blank">
+    <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width = 50 height = 50 style = "margin-bottom: 5px;" />
+  </a>
+
+  <a href = "https://www.facebook.com/mohamed.mahmoud.573566" target = "_blank">
+    <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" width = 50 height = 50 style = "margin-bottom: 5px;" />
+  </a>
+
+  <a href = "https://www.instagram.com/itsmohamedmahmoud" target = "_blank">
+    <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width = 50 height = 50 style = "margin-bottom: 5px;" />
+  </a>
+
+</div>
+
 </div>
 
 
@@ -45,7 +68,7 @@ I enjoy working close to the core of systems: data modeling, API design, and bac
 ### 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:mohamed.haroka1@gmail.com">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://linkedin.com/in/haroka">
