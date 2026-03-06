@@ -1,13 +1,12 @@
 <div style = "font-family: 'Roboto', sans-serif;">
 
 <div>
-  <img align = "right" width = "40%" src = "https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align = "right" width = "35%" src = "https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 # Hi, I'm Mohamed
 
-<p align = "left"> I am a Software Engineer focused on building reliable solutions that solve real business problems. Solved 1600+ algorithmic problems across problem-solving platforms, building analytical rigor to systematically tackle
-complexity. Familiar with software architecture and design principles, and committed to writing clean, maintainable code. Eager to collaborate, learn, and build software that delivers meaningful value. </p>
+<p align = "left"> I am a Software Engineer focused on building reliable solutions that solve real business problems. algorithmic problems across problem-solving platforms, building analytical rigor to systematically tackle complexity. Familiar with software architecture and design principles, and committed to writing clean, maintainable code. Eager to collaborate, learn, and build software that delivers meaningful value. </p>
 
 </div>
 
