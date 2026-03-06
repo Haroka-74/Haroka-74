@@ -6,7 +6,7 @@
 
 # Hi, I'm Mohamed
 
-<p align = "left"> Software Engineer focused on building reliable solutions that solve real business problems. algorithmic problems across problem-solving platforms, building analytical rigor to systematically tackle complexity. Familiar with software architecture and design principles, and committed to writing clean, maintainable code. Eager to collaborate, learn, and build software that delivers meaningful value. </p>
+<p align = "left"> Software Engineer focused on building reliable solutions that solve real business problems. Solved <strong>1600+</strong> algorithmic problems across problem-solving platforms, building analytical rigor to systematically tackle complexity. Familiar with software architecture and design principles, and committed to writing clean, maintainable code. Eager to collaborate, learn, and build software that delivers meaningful value. </p>
 
 </div>
 
