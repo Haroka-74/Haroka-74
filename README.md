@@ -1,20 +1,42 @@
 <div style = "font-family: 'Roboto', sans-serif;">
 
-<div align = "center">
-  <img width ="80%" height = "375" src = "./banner.jpg" style = "border-radius: 20px;">
+<div>
+  <img align = "right" width = "40%" src = "https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+# <img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = "30"/> ɪ'ᴍ MOHAMED!
+*Software Engineer*
+<br />
+
+<!--Start Intro-->
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+
 </div>
 
 
 
-#
-#
-#
-#
 
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyN2p3c3d2bTF6Y3N4aXh2c2U4c3R0cnd5cXR2eGd1YzZtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif"/>
+
+
+
+
+
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
 <h2 align="center">Hi, I'm Mohamed Mahmoud 👋</h2>
 
