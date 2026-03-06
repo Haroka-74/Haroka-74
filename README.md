@@ -8,6 +8,17 @@
 
 <p align = "left"> Software Engineer focused on building reliable solutions that solve real business problems. Solved <strong>1600+</strong> algorithmic problems across problem-solving platforms, building analytical rigor to systematically tackle complexity. Familiar with software architecture and design principles, and committed to writing clean, maintainable code. Eager to collaborate, learn, and build software that delivers meaningful value. </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 </div>
 
 
@@ -24,26 +35,6 @@
 
 
 
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-
 
 
 ### 📬 Contact Me
@@ -57,22 +48,7 @@
   </a>
 </p>
 
----
 
-### 👩‍💻 About Me
-- 🎓 **Fresh Graduate Software Engineer** from Cairo University (Class of 2025)
-- 🧠 **Competitive Programmer:** Solved **1,600+ problems** across various platforms
-- 🏗️ Focused on **Backend Architecture** using ASP.NET Core and Clean Architecture (CQRS/MediatR)
-- 🚀 Passionate about performance, unit testing, and building scalable systems
-
----
-
-### 🏆 Problem Solving Stats
-- **Total Problems Solved:** 1,600+ 🧩
-- **ACM Qualification:** Ranked **4th place** at Faculty level (49th/223 overall)
-- **Expertise:** Deep understanding of Data Structures, Algorithms, and Complexity Analysis
-
----
 
 ### 🛠 Tech Stack
 
